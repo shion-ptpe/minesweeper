@@ -1,0 +1,4 @@
+[project]
+name = "minesweeper"
+description = "minesweeper"
+version = "2023061601"
